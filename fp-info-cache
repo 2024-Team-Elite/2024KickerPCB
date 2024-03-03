@@ -1,4 +1,4 @@
-21869013411701131
+21872431403951103
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83462,6 +83462,20 @@ rotary encoder
 6
 SMDPads
 Pads_1x02
+
+
+0
+2
+2
+SMDPads
+Pads_1x02_Large
+
+
+0
+2
+2
+SMDPads
+Pads_1x02_XL
 
 
 0
