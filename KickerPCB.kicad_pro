@@ -485,7 +485,7 @@
       "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "KickerPCB.step",
       "svg": "",
       "vrml": ""
     },
